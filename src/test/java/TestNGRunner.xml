@@ -1,0 +1,8 @@
+<suite name="Suite1" verbose="1" parallel="clasess" thread-count="6" >
+
+    <test name="Regression1">
+        <classes>
+            <class name="MyTests" />
+        </classes>
+    </test>
+</suite>
