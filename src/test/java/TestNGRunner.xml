@@ -1,4 +1,4 @@
-<suite name="Suite1" verbose="1" parallel="clasess" thread-count="6" >
+<suite name="Suite1" verbose="1" parallel="methods" thread-count="6" >
 
     <test name="Regression1">
         <classes>
